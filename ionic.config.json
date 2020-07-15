@@ -1,5 +1,7 @@
 {
   "name": "cerco",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

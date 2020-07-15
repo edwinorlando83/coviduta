@@ -1,0 +1,1118 @@
+{
+"canton": [
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0110",
+		"dpa_descan" : "OÑA"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0108",
+		"dpa_descan" : "SANTA ISABEL"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0104",
+		"dpa_descan" : "NABON"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0102",
+		"dpa_descan" : "GIRON"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0107",
+		"dpa_descan" : "SAN FERNANDO"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0106",
+		"dpa_descan" : "PUCARA"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0109",
+		"dpa_descan" : "SIGSIG"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0115",
+		"dpa_descan" : "CAMILO PONCE ENRIQUEZ"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0111",
+		"dpa_descan" : "CHORDELEG"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0103",
+		"dpa_descan" : "GUALACEO"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0101",
+		"dpa_descan" : "CUENCA"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0113",
+		"dpa_descan" : "SEVILLA DE ORO"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0112",
+		"dpa_descan" : "EL PAN"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0114",
+		"dpa_descan" : "GUACHAPALA"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_canton" : "0105",
+		"dpa_descan" : "PAUTE"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_canton" : "0202",
+		"dpa_descan" : "CHILLANES"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_canton" : "0205",
+		"dpa_descan" : "SAN MIGUEL"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_canton" : "0203",
+		"dpa_descan" : "CHIMBO"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_canton" : "0206",
+		"dpa_descan" : "CALUMA"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_canton" : "0201",
+		"dpa_descan" : "GUARANDA"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_canton" : "0204",
+		"dpa_descan" : "ECHEANDIA"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_canton" : "0207",
+		"dpa_descan" : "LAS NAVES"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_canton" : "0306",
+		"dpa_descan" : "DELEG"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_canton" : "0301",
+		"dpa_descan" : "AZOGUES"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_canton" : "0302",
+		"dpa_descan" : "BIBLIAN"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_canton" : "0303",
+		"dpa_descan" : "CAÑAR"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_canton" : "0305",
+		"dpa_descan" : "EL TAMBO"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_canton" : "0307",
+		"dpa_descan" : "SUSCAL"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_canton" : "0304",
+		"dpa_descan" : "LA TRONCAL"
+	},
+	{
+		"dpa_provin" : "04",
+		"dpa_canton" : "0402",
+		"dpa_descan" : "BOLIVAR"
+	},
+	{
+		"dpa_provin" : "04",
+		"dpa_canton" : "0404",
+		"dpa_descan" : "MIRA"
+	},
+	{
+		"dpa_provin" : "04",
+		"dpa_canton" : "0405",
+		"dpa_descan" : "MONTUFAR"
+	},
+	{
+		"dpa_provin" : "04",
+		"dpa_canton" : "0406",
+		"dpa_descan" : "SAN PEDRO DE HUACA"
+	},
+	{
+		"dpa_provin" : "04",
+		"dpa_canton" : "0403",
+		"dpa_descan" : "ESPEJO"
+	},
+	{
+		"dpa_provin" : "04",
+		"dpa_canton" : "0401",
+		"dpa_descan" : "TULCAN"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_canton" : "0503",
+		"dpa_descan" : "PANGUA"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_canton" : "0505",
+		"dpa_descan" : "SALCEDO"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_canton" : "0504",
+		"dpa_descan" : "PUJILI"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_canton" : "0501",
+		"dpa_descan" : "LATACUNGA"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_canton" : "0506",
+		"dpa_descan" : "SAQUISILI"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_canton" : "0502",
+		"dpa_descan" : "LA MANA"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_canton" : "0507",
+		"dpa_descan" : "SIGCHOS"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0605",
+		"dpa_descan" : "CHUNCHI"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0610",
+		"dpa_descan" : "CUMANDA"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0602",
+		"dpa_descan" : "ALAUSI"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0608",
+		"dpa_descan" : "PALLATANGA"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0606",
+		"dpa_descan" : "GUAMOTE"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0604",
+		"dpa_descan" : "CHAMBO"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0603",
+		"dpa_descan" : "COLTA"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0601",
+		"dpa_descan" : "RIOBAMBA"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0607",
+		"dpa_descan" : "GUANO"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_canton" : "0609",
+		"dpa_descan" : "PENIPE"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0708",
+		"dpa_descan" : "MARCABELI"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0704",
+		"dpa_descan" : "BALSAS"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0714",
+		"dpa_descan" : "LAS LAJAS"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0711",
+		"dpa_descan" : "PORTOVELO"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0713",
+		"dpa_descan" : "ZARUMA"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0710",
+		"dpa_descan" : "PIÑAS"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0703",
+		"dpa_descan" : "ATAHUALPA"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0707",
+		"dpa_descan" : "HUAQUILLAS"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0702",
+		"dpa_descan" : "ARENILLAS"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0712",
+		"dpa_descan" : "SANTA ROSA"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0705",
+		"dpa_descan" : "CHILLA"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0709",
+		"dpa_descan" : "PASAJE"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0701",
+		"dpa_descan" : "MACHALA"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_canton" : "0706",
+		"dpa_descan" : "EL GUABO"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_canton" : "0804",
+		"dpa_descan" : "QUININDE"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_canton" : "0803",
+		"dpa_descan" : "MUISNE"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_canton" : "0806",
+		"dpa_descan" : "ATACAMES"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_canton" : "0801",
+		"dpa_descan" : "ESMERALDAS"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_canton" : "0807",
+		"dpa_descan" : "RIOVERDE"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_canton" : "0802",
+		"dpa_descan" : "ELOY ALFARO"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_canton" : "0805",
+		"dpa_descan" : "SAN LORENZO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0901",
+		"dpa_descan" : "GUAYAQUIL"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0902",
+		"dpa_descan" : "ALFREDO BAQUERIZO MORENO (JUJAN)"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0903",
+		"dpa_descan" : "BALAO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0904",
+		"dpa_descan" : "BALZAR"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0905",
+		"dpa_descan" : "COLIMES"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0906",
+		"dpa_descan" : "DAULE"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0907",
+		"dpa_descan" : "DURAN"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0908",
+		"dpa_descan" : "EL EMPALME"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0909",
+		"dpa_descan" : "EL TRIUNFO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0910",
+		"dpa_descan" : "MILAGRO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0911",
+		"dpa_descan" : "NARANJAL"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0912",
+		"dpa_descan" : "NARANJITO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0913",
+		"dpa_descan" : "PALESTINA"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0914",
+		"dpa_descan" : "PEDRO CARBO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0916",
+		"dpa_descan" : "SAMBORONDON"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0918",
+		"dpa_descan" : "SANTA LUCIA"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0919",
+		"dpa_descan" : "URBINA JADO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0920",
+		"dpa_descan" : "YAGUACHI"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0921",
+		"dpa_descan" : "PLAYAS"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0922",
+		"dpa_descan" : "SIMON BOLIVAR"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0923",
+		"dpa_descan" : "CORONEL MARCELINO MARIDUEÑA"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0924",
+		"dpa_descan" : "LOMAS DE SARGENTILLO"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0925",
+		"dpa_descan" : "NOBOL"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0927",
+		"dpa_descan" : "GENERAL  ANTONIO ELIZALDE"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_canton" : "0928",
+		"dpa_descan" : "ISIDRO AYORA"
+	},
+	{
+		"dpa_provin" : "10",
+		"dpa_canton" : "1004",
+		"dpa_descan" : "OTAVALO"
+	},
+	{
+		"dpa_provin" : "10",
+		"dpa_canton" : "1003",
+		"dpa_descan" : "COTACACHI"
+	},
+	{
+		"dpa_provin" : "10",
+		"dpa_canton" : "1002",
+		"dpa_descan" : "ANTONIO ANTE"
+	},
+	{
+		"dpa_provin" : "10",
+		"dpa_canton" : "1005",
+		"dpa_descan" : "PIMAMPIRO"
+	},
+	{
+		"dpa_provin" : "10",
+		"dpa_canton" : "1006",
+		"dpa_descan" : "SAN MIGUEL DE URCUQUI"
+	},
+	{
+		"dpa_provin" : "10",
+		"dpa_canton" : "1001",
+		"dpa_descan" : "IBARRA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1106",
+		"dpa_descan" : "ESPINDOLA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1115",
+		"dpa_descan" : "QUILANGA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1113",
+		"dpa_descan" : "ZAPOTILLO"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1108",
+		"dpa_descan" : "MACARA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1107",
+		"dpa_descan" : "GONZANAMA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1102",
+		"dpa_descan" : "CALVAS"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1112",
+		"dpa_descan" : "SOZORANGA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1114",
+		"dpa_descan" : "PINDAL"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1104",
+		"dpa_descan" : "CELICA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1109",
+		"dpa_descan" : "PALTAS"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1116",
+		"dpa_descan" : "OLMEDO"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1103",
+		"dpa_descan" : "CATAMAYO"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1110",
+		"dpa_descan" : "PUYANGO"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1101",
+		"dpa_descan" : "LOJA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1105",
+		"dpa_descan" : "CHAGUARPAMBA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_canton" : "1111",
+		"dpa_descan" : "SARAGURO"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1201",
+		"dpa_descan" : "BABAHOYO"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1202",
+		"dpa_descan" : "BABA"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1203",
+		"dpa_descan" : "MONTALVO"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1204",
+		"dpa_descan" : "PUEBLOVIEJO"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1205",
+		"dpa_descan" : "QUEVEDO"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1206",
+		"dpa_descan" : "URDANETA"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1207",
+		"dpa_descan" : "VENTANAS"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1208",
+		"dpa_descan" : "VINCES"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1209",
+		"dpa_descan" : "PALENQUE"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1210",
+		"dpa_descan" : "BUENA FE"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1211",
+		"dpa_descan" : "VALENCIA"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1212",
+		"dpa_descan" : "MOCACHE"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_canton" : "1213",
+		"dpa_descan" : "QUINSALOMA"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1319",
+		"dpa_descan" : "PUERTO LOPEZ"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1310",
+		"dpa_descan" : "PAJAN"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1318",
+		"dpa_descan" : "OLMEDO"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1316",
+		"dpa_descan" : "24 DE MAYO"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1306",
+		"dpa_descan" : "JIPIJAPA"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1313",
+		"dpa_descan" : "SANTA ANA"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1309",
+		"dpa_descan" : "MONTECRISTI"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1308",
+		"dpa_descan" : "MANTA"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1321",
+		"dpa_descan" : "JARAMIJO"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1301",
+		"dpa_descan" : "PORTOVIEJO"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1307",
+		"dpa_descan" : "JUNIN"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1312",
+		"dpa_descan" : "ROCAFUERTE"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1302",
+		"dpa_descan" : "BOLIVAR"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1311",
+		"dpa_descan" : "PICHINCHA"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1315",
+		"dpa_descan" : "TOSAGUA"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1314",
+		"dpa_descan" : "SUCRE"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1303",
+		"dpa_descan" : "CHONE"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1322",
+		"dpa_descan" : "SAN VICENTE"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1304",
+		"dpa_descan" : "EL CARMEN"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1305",
+		"dpa_descan" : "FLAVIO ALFARO"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1320",
+		"dpa_descan" : "JAMA"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_canton" : "1317",
+		"dpa_descan" : "PEDERNALES"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1402",
+		"dpa_descan" : "GUALAQUIZA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1408",
+		"dpa_descan" : "SAN JUAN BOSCO"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1403",
+		"dpa_descan" : "LIMON INDANZA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1412",
+		"dpa_descan" : "TIWINTZA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1410",
+		"dpa_descan" : "LOGROÑO"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1405",
+		"dpa_descan" : "SANTIAGO"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1406",
+		"dpa_descan" : "SUCUA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1401",
+		"dpa_descan" : "MORONA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1409",
+		"dpa_descan" : "TAISHA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1407",
+		"dpa_descan" : "HUAMBOYA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1404",
+		"dpa_descan" : "PALORA"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_canton" : "1411",
+		"dpa_descan" : "PABLO SEXTO"
+	},
+	{
+		"dpa_provin" : "15",
+		"dpa_canton" : "1509",
+		"dpa_descan" : "CARLOS JULIO AROSEMENA TOLA"
+	},
+	{
+		"dpa_provin" : "15",
+		"dpa_canton" : "1501",
+		"dpa_descan" : "TENA"
+	},
+	{
+		"dpa_provin" : "15",
+		"dpa_canton" : "1503",
+		"dpa_descan" : "ARCHIDONA"
+	},
+	{
+		"dpa_provin" : "15",
+		"dpa_canton" : "1507",
+		"dpa_descan" : "QUIJOS"
+	},
+	{
+		"dpa_provin" : "15",
+		"dpa_canton" : "1504",
+		"dpa_descan" : "EL CHACO"
+	},
+	{
+		"dpa_provin" : "16",
+		"dpa_canton" : "1601",
+		"dpa_descan" : "PASTAZA"
+	},
+	{
+		"dpa_provin" : "16",
+		"dpa_canton" : "1602",
+		"dpa_descan" : "MERA"
+	},
+	{
+		"dpa_provin" : "16",
+		"dpa_canton" : "1603",
+		"dpa_descan" : "SANTA CLARA"
+	},
+	{
+		"dpa_provin" : "16",
+		"dpa_canton" : "1604",
+		"dpa_descan" : "ARAJUNO"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1703",
+		"dpa_descan" : "MEJIA"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1705",
+		"dpa_descan" : "RUMIÑAHUI"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1701",
+		"dpa_descan" : "DISTRITO METROPOLITANO DE QUITO"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1702",
+		"dpa_descan" : "CAYAMBE"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1707",
+		"dpa_descan" : "SAN MIGUEL DE LOS BANCOS"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1704",
+		"dpa_descan" : "PEDRO MONCAYO"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1708",
+		"dpa_descan" : "PEDRO VICENTE MALDONADO"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_canton" : "1709",
+		"dpa_descan" : "PUERTO QUITO"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1804",
+		"dpa_descan" : "MOCHA"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1806",
+		"dpa_descan" : "QUERO"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1802",
+		"dpa_descan" : "BAÑOS DE AGUA SANTA"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1803",
+		"dpa_descan" : "CEVALLOS"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1809",
+		"dpa_descan" : "TISALEO"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1805",
+		"dpa_descan" : "PATATE"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1807",
+		"dpa_descan" : "PELILEO"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1801",
+		"dpa_descan" : "AMBATO"
+	},
+	{
+		"dpa_provin" : "18",
+		"dpa_canton" : "1808",
+		"dpa_descan" : "PILLARO"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1902",
+		"dpa_descan" : "CHINCHIPE"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1908",
+		"dpa_descan" : "PALANDA"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1901",
+		"dpa_descan" : "ZAMORA"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1903",
+		"dpa_descan" : "NANGARITZA"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1909",
+		"dpa_descan" : "PAQUISHA"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1907",
+		"dpa_descan" : "CENTINELA DEL CONDOR"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1905",
+		"dpa_descan" : "YANTZAZA"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1906",
+		"dpa_descan" : "EL PANGUI"
+	},
+	{
+		"dpa_provin" : "19",
+		"dpa_canton" : "1904",
+		"dpa_descan" : "YACUAMBI"
+	},
+	{
+		"dpa_provin" : "20",
+		"dpa_canton" : "2001",
+		"dpa_descan" : "SAN CRISTOBAL"
+	},
+	{
+		"dpa_provin" : "20",
+		"dpa_canton" : "2003",
+		"dpa_descan" : "SANTA CRUZ"
+	},
+	{
+		"dpa_provin" : "20",
+		"dpa_canton" : "2002",
+		"dpa_descan" : "ISABELA"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_canton" : "2107",
+		"dpa_descan" : "CUYABENO"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_canton" : "2104",
+		"dpa_descan" : "SHUSHUFINDI"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_canton" : "2102",
+		"dpa_descan" : "GONZALO PIZARRO"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_canton" : "2101",
+		"dpa_descan" : "LAGO AGRIO"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_canton" : "2103",
+		"dpa_descan" : "PUTUMAYO"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_canton" : "2106",
+		"dpa_descan" : "CASCALES"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_canton" : "2105",
+		"dpa_descan" : "SUCUMBIOS"
+	},
+	{
+		"dpa_provin" : "22",
+		"dpa_canton" : "2202",
+		"dpa_descan" : "AGUARICO"
+	},
+	{
+		"dpa_provin" : "22",
+		"dpa_canton" : "2204",
+		"dpa_descan" : "LORETO"
+	},
+	{
+		"dpa_provin" : "22",
+		"dpa_canton" : "2201",
+		"dpa_descan" : "ORELLANA"
+	},
+	{
+		"dpa_provin" : "22",
+		"dpa_canton" : "2203",
+		"dpa_descan" : "LA JOYA DE LOS SACHAS"
+	},
+	{
+		"dpa_provin" : "23",
+		"dpa_canton" : "2301",
+		"dpa_descan" : "SANTO DOMINGO"
+	},
+	{
+		"dpa_provin" : "23",
+		"dpa_canton" : "2302",
+		"dpa_descan" : "LA CONCORDIA"
+	},
+	{
+		"dpa_provin" : "24",
+		"dpa_canton" : "2402",
+		"dpa_descan" : "LA LIBERTAD"
+	},
+	{
+		"dpa_provin" : "24",
+		"dpa_canton" : "2403",
+		"dpa_descan" : "SALINAS"
+	},
+	{
+		"dpa_provin" : "24",
+		"dpa_canton" : "2401",
+		"dpa_descan" : "SANTA ELENA"
+	},
+	{
+		"dpa_provin" : "90",
+		"dpa_canton" : "9004",
+		"dpa_descan" : "EL PIEDRERO"
+	},
+	{
+		"dpa_provin" : "90",
+		"dpa_canton" : "9006",
+		"dpa_descan" : "JUVAL"
+	}
+]}

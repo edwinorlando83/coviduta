@@ -1,0 +1,428 @@
+<ion-header>
+  <ion-toolbar>
+    <img   style="align-self: center; width: 130px;" src="assets/COVIDUTA.svg"/>
+    <ion-icon (click)="reporte()" name="print-outline" slot="end" > </ion-icon>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    
+  
+
+    <ion-row>
+      <ion-col     offset-xl="4"
+      size-xl="4"
+
+      offset-sm="2"
+      size-sm="8"
+
+      offset-md="3"
+      size-md="6"
+
+   
+      size-xs="12" >
+       
+ <table>
+   <tr>
+     <td align="center">
+  <img style="width: 350px;" src="assets/ayuda.jpg" />
+     </td>
+   </tr>
+   <tr>
+    <td style="background-color: #F4F4F4; padding-top: 10px;">
+      <div class="texto1"> 
+      Tus respuestas serán <b> compartidas anónimamente  </b> para ayudar a gestionar investigación, ayuda y otras causas sobre el esparcimiento del COVID-19.
+    <p>  </p>
+    </div>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style="  padding-top: 20px;">
+      <div class="tema1">
+        Marque la pregunta si su respuesta es <span style="color:#BB222E">SI </span>
+        <p></p>
+      </div>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background-color: #F4F4F4; ">
+      
+      <table style=" margin-left: 20px;  width: 92%;">
+        <tr>
+          <td width="75%"  class="titulotabla">
+            Síntomas
+          </td>
+          <td align="center" class="titulotabla">
+          
+          </td>
+        </tr>
+        <tr  class="fila">
+          <td class="textoPregunta">
+            ¿Tiene fiebre, escalofríos o temblores?
+          </td>
+          <td  align="center"  >
+            <ion-checkbox   [(ngModel)]="sp1" mode="ios" color="danger"> 
+
+            </ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Tiene una tos nueva o que empeora?
+          </td>
+          <td align="center">
+            <ion-checkbox
+              [(ngModel)]="sp2"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Experimenta dificultad para respirar?
+          </td>
+          <td align="center" >
+            <ion-checkbox
+              [(ngModel)]="sp3"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+      </table>
+
+
+      <table style=" margin-left: 20px;  width: 92%;">
+        <tr>
+          <td width="75%" class="titulotabla">
+            Vulnerabilidad
+          </td>
+        
+        </tr>
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Tiene 60 años de edad o más?
+          </td>
+          <td align="center" >
+            <ion-checkbox
+              [(ngModel)]="vp1"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Tiene alguna de las siguientes condiciones médicas: diabetes,
+            enfermedad cardíaca, cáncer activo, antecedentes de accidente
+            cerebrovascular, asma, EPOC, diálisis o están inmunocomprometidos?
+          </td>
+          <td align="center">
+            <ion-checkbox
+              [(ngModel)]="vp2"
+              mode="ios"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Ha viajado fuera de Ecuador en los últimos 14 días?
+          </td>
+          <td align="center">
+            <ion-checkbox
+              [(ngModel)]="vp3"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Ha tenido contacto cercano con alguien que está tosiendo, tiene
+            fiebre, está enfermo o ha sido diagnosticado con COVID-19?
+          </td>
+          <td align="center">
+            <ion-checkbox
+              [(ngModel)]="vp4"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Su situación económica es delicada?
+          </td>
+          <td align="center">
+            <ion-checkbox
+              [(ngModel)]="vp5"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Tiene familiares recuperados del virus covit-19?
+          </td>
+          <td align="center">
+            <ion-checkbox
+              [(ngModel)]="vp6"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Tiene familiares que han fallecido por el virus Covit-19?
+          </td>
+          <td align="center">
+            <ion-checkbox
+              [(ngModel)]="vp7"
+              mode="ios"
+              color="danger"
+            ></ion-checkbox>
+          </td>
+        </tr>
+      </table>
+
+      <table style=" margin-left: 20px;  width: 92%;">
+        <tr>
+          <td width="40%" class="titulotabla" colspan="2">
+            Locación o Ubicación
+          </td>
+        </tr>
+        <tr class="fila">
+          <td class="textoPregunta">
+            <b class="obligado"> *</b>    Provincia
+          </td>
+          <td>
+
+           
+
+            <ion-select mode="ios"
+              [(ngModel)]="provincia_selecionado"
+              (ionChange)="getcantones( )"
+              placeholder="Seleccione"
+              interface="popover"
+            >
+         
+              <ion-select-option   
+              *ngFor="let provincia of provincias"
+              value="{{provincia.dpa_provin}}"
+            >
+              {{provincia.dpa_despro}}
+            </ion-select-option>
+           
+          
+            </ion-select>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            <b class="obligado"> *</b>   Cantón
+          </td>
+          <td>
+            <ion-select
+              *ngIf="provincia_selecionado"
+              [(ngModel)]="canton_selecionado"
+              (ionChange)="getparroquias( )"
+              placeholder="Seleccione"
+              interface="popover"
+              mode="ios"
+            >
+              <ion-select-option
+                *ngFor="let canton of cantones"
+                value="{{canton.dpa_canton}}"
+              >
+                {{canton.dpa_descan}}
+              </ion-select-option>
+            </ion-select>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            <b class="obligado"> *</b>  Parroquia
+          </td>
+          <td>
+            <ion-select
+              *ngIf="canton_selecionado"
+              (ionChange)="changeParroquias( )"
+              [(ngModel)]="parroquia_selecionado"
+              placeholder="Seleccione"
+              interface="popover"
+               mode="ios"
+            >
+              <ion-select-option
+                *ngFor="let parr of parroquias "
+                value="{{parr.dpa_parroq}}"
+              >
+                {{parr.dpa_despar}}
+              </ion-select-option>
+            </ion-select>
+          </td>
+        </tr>
+      </table>
+
+       
+
+
+      <table style=" margin-left: 20px;  width: 92%;">
+        <tr>
+          <td width="40%" class="titulotabla" colspan="2">
+            Diagnóstico 
+          </td>
+        </tr>
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Se ha hecho una prueba rapida de Covid19?
+          </td>
+          <td  align="center">
+            <ion-checkbox
+            [(ngModel)]="ot1"
+            mode="ios"
+            color="danger"
+          ></ion-checkbox>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta">
+            ¿Ha tenido un PCR +?
+          </td>
+          <td align="center">
+            <ion-checkbox
+            [(ngModel)]="ot2"
+            mode="ios"
+            color="danger"
+          ></ion-checkbox>
+          </td>
+        </tr>
+
+   
+      </table>
+
+      <table style=" margin-left: 20px;  width: 92%;">
+        <tr>
+          <td width="40%" class="titulotabla" colspan="2">
+            Otros
+          </td>
+        </tr>
+        <tr class="fila">
+          <td class="textoPregunta">
+             Facultad 
+          </td>
+          <td  >
+            <ion-item> 
+            <ion-input  [(ngModel)]="facultad"> </ion-input>
+          </ion-item>
+          </td>
+        </tr>
+
+        <tr class="fila">
+          <td class="textoPregunta ">
+             Carrera
+          </td>
+          <td  >
+            <ion-item> 
+              <ion-input  [(ngModel)]="carrera" > </ion-input>
+            </ion-item>
+          </td>
+        </tr>
+
+
+        <tr class="fila">
+          <td class="textoPregunta ">
+            <b class="obligado"> *</b>  Cédula
+          </td>
+          <td  >
+            <ion-item> 
+              <ion-input  [(ngModel)]="txtCedula" > </ion-input>
+            </ion-item>
+          </td>
+        </tr>
+        <tr class="fila">
+          <td class="textoPregunta ">
+              Lugar de Trabajo
+          </td>
+          <td  >
+            <ion-item> 
+              <ion-input  [(ngModel)]="txtLugartrabajo" > </ion-input>
+            </ion-item>
+          </td>
+        </tr>
+   
+      </table>
+
+ <p></p>
+
+
+
+    </td>
+  </tr>
+
+ </table>
+
+       
+
+
+      </ion-col>
+    </ion-row>
+ 
+ 
+    <ion-row>
+      <ion-col offset-xl="4" size-xl="4" offset-sm="3" size-sm="6" size-xs="12">
+        <div *ngIf="guardar" class="advertencia">
+          Al enviar la información, certifica que usted  es mayor de edad y acepta los Términos de uso y la Política de privacidad. En caso de no estar deacuerdo, por favor no envíe esta información 
+        </div>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col 
+      offset-xl="4"
+      size-xl="4"
+
+      offset-sm="2"
+      size-sm="8"
+
+      offset-md="3"
+      size-md="6"
+
+      offset-xs="1"
+      size-xs="10"
+
+      >
+        <ion-button style="margin-right: 10px;margin-left: 10px;" expand="block"
+          [disabled]="!guardar"
+          (click)="guardarDatos()"          
+          
+          color="danger"
+         
+        >
+          <div class="textoBoton">Enviar</div>
+        </ion-button>
+      </ion-col>
+    </ion-row>
+
+  </ion-grid>
+</ion-content>

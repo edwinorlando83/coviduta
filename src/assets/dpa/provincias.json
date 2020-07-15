@@ -1,0 +1,100 @@
+{
+"provincia": [
+	{
+		"dpa_provin" : "18",
+		"dpa_despro" : "TUNGURAHUA"
+	},
+	{
+		"dpa_provin" : "01",
+		"dpa_despro" : "AZUAY"
+	},
+	{
+		"dpa_provin" : "02",
+		"dpa_despro" : "BOLIVAR"
+	},
+	{
+		"dpa_provin" : "03",
+		"dpa_despro" : "CAÑAR"
+	},
+	{
+		"dpa_provin" : "04",
+		"dpa_despro" : "CARCHI"
+	},
+	{
+		"dpa_provin" : "05",
+		"dpa_despro" : "COTOPAXI"
+	},
+	{
+		"dpa_provin" : "06",
+		"dpa_despro" : "CHIMBORAZO"
+	},
+	{
+		"dpa_provin" : "07",
+		"dpa_despro" : "EL ORO"
+	},
+	{
+		"dpa_provin" : "08",
+		"dpa_despro" : "ESMERALDAS"
+	},
+	{
+		"dpa_provin" : "09",
+		"dpa_despro" : "GUAYAS"
+	},
+	{
+		"dpa_provin" : "10",
+		"dpa_despro" : "IMBABURA"
+	},
+	{
+		"dpa_provin" : "11",
+		"dpa_despro" : "LOJA"
+	},
+	{
+		"dpa_provin" : "12",
+		"dpa_despro" : "LOS RIOS"
+	},
+	{
+		"dpa_provin" : "13",
+		"dpa_despro" : "MANABI"
+	},
+	{
+		"dpa_provin" : "14",
+		"dpa_despro" : "MORONA SANTIAGO"
+	},
+	{
+		"dpa_provin" : "15",
+		"dpa_despro" : "NAPO"
+	},
+	{
+		"dpa_provin" : "16",
+		"dpa_despro" : "PASTAZA"
+	},
+	{
+		"dpa_provin" : "17",
+		"dpa_despro" : "PICHINCHA"
+	},
+	
+	{
+		"dpa_provin" : "19",
+		"dpa_despro" : "ZAMORA CHINCHIPE"
+	},
+	{
+		"dpa_provin" : "20",
+		"dpa_despro" : "GALAPAGOS"
+	},
+	{
+		"dpa_provin" : "21",
+		"dpa_despro" : "SUCUMBIOS"
+	},
+	{
+		"dpa_provin" : "22",
+		"dpa_despro" : "ORELLANA"
+	}, 
+	{
+		"dpa_provin" : "23",
+		"dpa_despro" : "SANTO DOMINGO DE LOS TSACHILAS"
+	},
+	{
+		"dpa_provin" : "24",
+		"dpa_despro" : "SANTA ELENA"
+	} 
+]}

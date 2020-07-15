@@ -1,0 +1,100 @@
+<ion-header>
+  <table> 
+    <tr> 
+      
+        <td colspan="3">          
+          <ion-select mode="ios"
+          [(ngModel)]="indicador"        
+          placeholder="Indicador" 
+          interface="alert"
+        >
+          <ion-select-option value="sp1"     >
+  
+            ¿Tiene fiebre, escalofríos o temblores?   
+         
+          </ion-select-option>
+
+          <ion-select-option value="sp2" >
+            ¿Tiene una tos nueva o que empeora?
+          </ion-select-option>
+
+
+          <ion-select-option value="sp3" >
+             ¿Experimenta dificultad para respirar? 
+          </ion-select-option>
+
+          <ion-select-option value="vp1" >
+            ¿Tiene 60 años de edad o más?
+          </ion-select-option>
+
+          <ion-select-option value="vp2" >
+          ¿Tiene alguna de las siguientes condiciones médicas: diabetes, enfermedad cardíaca, cáncer activo, antecedentes de accidente cerebrovascular, asma, EPOC, diálisis o están inmunocomprometidos?
+          </ion-select-option>
+
+          <ion-select-option value="vp3" >
+            ¿Ha viajado fuera de Ecuador en los últimos 14 días?"
+          </ion-select-option>
+
+          <ion-select-option value="vp4" >
+             ¿Has tenido contacto cercano con alguien que está tosiendo, tiene fiebre, o está enfermo y ha estado fuera de Ecuador en los últimos 14 días o ha sido diagnosticado con COVID-19?
+          </ion-select-option>
+
+        </ion-select>
+
+        </td>
+    </tr>
+    <tr>  
+      <td>   
+           <ion-select mode="ios"
+        [(ngModel)]="provincia_selecionado"
+        (ionChange)="getcantones( )"
+        placeholder="Provincia"
+      >
+        <ion-select-option
+          *ngFor="let provincia of provincias"
+          value="{{provincia.dpa_provin}}"
+        >
+          {{provincia.dpa_despro}}
+        </ion-select-option>
+      </ion-select>
+    
+    </td>
+      <td> 
+        <ion-select mode="ios"  [disabled]="!provincia_selecionado"
+      
+        [(ngModel)]="canton_selecionado"
+        (ionChange)="getparroquias( )"
+        placeholder="Cantón"
+      >
+        <ion-select-option 
+          *ngFor="let canton of cantones"
+          value="{{canton.dpa_canton}}"
+        >
+          {{canton.dpa_descan}}
+        </ion-select-option>
+      </ion-select>
+
+      </td>
+  
+
+      <td>
+        <ion-button
+          [disabled]="!buscar"
+          (click)="buscarDatos()"
+        
+        >
+          <div class="textoBoton">Buscar</div>
+        </ion-button>
+
+      </td>
+    </tr>
+  </table>
+</ion-header>
+
+<ion-content>
+ 
+  <div id="mapId" style="width: 100%; height: 100%; ">
+  </div>
+ 
+
+</ion-content>
